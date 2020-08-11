@@ -19,4 +19,5 @@ def failstatus():
     f.close()
     return Response(x, mimetype='application/json')
 
-app.run()
+if __name__ == '__main__':
+    app.run()
