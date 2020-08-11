@@ -1,4 +1,5 @@
 {
 	"testis": 1,
-	"teststatus": "FAIL"
+	"teststatus": "FAIL",
+	"failstatus": true
 }
